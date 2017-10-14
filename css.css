@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-10-06, 13:26:52
+    Author     : 1726660
+*/
+
+#header{
+    font-size: 40px;
+    font-family: Times New Roman;
+}
+#table, th, td{
+    border: 2px double black;
+}

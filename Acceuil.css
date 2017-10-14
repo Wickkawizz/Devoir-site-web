@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-10-05, 16:09:49
+    Author     : 1660111
+*/
+
+.acc img{
+    width: 200px;
+    height: 200px;
+    padding: 4em
+}
+.background{
+    background: url("Images/Black cover.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+body{
+    color: white
+}
+.acc {
+    margin-left: auto;
+    margin-right: auto;
+}
+#nav ul{
+    list-style: none ;
+    text-align: center;
+}
+#nav ul li a{
+    font-size: 25px
+}
+.acch h1{
+    text-align: center
+}
+.acch h2{
+    text-align: center
+}
+.center{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.center a:hover{
+    color: white
+}
+.center a:visited{
+    color: white
+}
+.center a:active{
+    color: red
+}
+a:link {
+    color: white 
+}
+a:visited {
+    color: white 
+}
+a:active {
+    color: red
+}
